@@ -1,0 +1,26 @@
+* {
+    font-family: Times, sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    text-align: center;
+}
+
+body {
+    background-color: lightgray;
+}
+
+main {
+    border: 3px solid snow;
+    border-radius: 15px;
+    box-shadow: 3px 4px 5px 0px lightsalmon;
+}
+
+section {
+    border: 1px solid snow;
+    width: 100%;
+    font-weight: bolder;
+    font-size: 20px;
+    letter-spacing: 5px;
+    box-shadow: 3px 4px 5px 0px lightpink;
+    background-color: darksalmon;
+}
